@@ -8,7 +8,6 @@ In this course we will be using Jupyter notebooks. These notebooks will have a m
 - Ivan Iossifov (iossifov@cshl.edu)
   
 ## Graduate student instructors:
-- Jakub Kaczmarzyk (kaczmar@cshl.edu)
 - Xingyu (CiCi) Zheng (xinzheng@cshl.edu)
 - Kaeli Rizzo (rizzo@cshl.edu)
 - Michael Passalacqua (passala@cshl.edu)

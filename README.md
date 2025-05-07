@@ -15,16 +15,16 @@ In this course we will be using Jupyter notebooks. These notebooks will have a m
 ## Schedule
 Classes are 120 min each. Days of the week, times, and locations may vary. 
  
-1. **Introduction, Command Line, and GitHub.** (Ivan) Tuesday June 17, 3pm-5pm in Hawkins Conference Room (3514)
+1. **Introduction, Python Programming and Jupyter Notebooks.** (Ivan) Tuesday June 17, 3pm-5pm in Hawkins Conference Room (3514)
 2. **Data Types and Flow Control I.** (Ivan) Thursday June 26, 3pm-5pm in Wendt Conference Room
 3. **Data Types and Flow Control II.** (CiCi) Tuesday July 8, 3pm-5pm in Hawkins Conference Room (3514)
 4. **Datasets and Visualization I.** (Kaeli) Thursday July 10, 3pm-5pm in Hawkins Conference Room (3514)
 5. **Datasets and Visualization II.** (Kaeli) Thursday July 17, 3pm-5pm in Wendt Conference Room
 6. **Genomic Data Analysis.** (Michael) Tuesday July 22, 3pm-5pm in Hawkins Conference Room (3514)
-7. **Image Data Analysis.** (???)  Thursday July 24, 3pm-5pm in Hawkins Conference Room (3514)
+7. **Machine Learning with application to ChIP-seq data.** (???)  Thursday July 24, 3pm-5pm in Hawkins Conference Room (3514)
 8. **Neural Data Analysis.** (CiCi) Thursday July 31, 3pm-5pm in Hawkins Conference Room (3514)
 
-9. ## Course designed by
+## Course designed by
 - Justin B. Kinney (jkinney@cshl.edu, http://kinneylab.labsites.cshl.edu/)
 
 

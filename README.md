@@ -7,22 +7,20 @@ In this course we will be using Jupyter notebooks. These notebooks will have a m
 ## Lead instructor:
 - Ivan Iossifov (iossifov@cshl.edu)
   
-## Graduate student instructors:
-- Xingyu (CiCi) Zheng (xinzheng@cshl.edu)
-- Kaeli Rizzo (rizzo@cshl.edu)
-- Michael Passalacqua (passala@cshl.edu)
+## Graduate student and Postdoc instructors:
+
 
 ## Schedule
 Classes are 120 min each. Days of the week, times, and locations may vary. 
  
 1. **Introduction, Python Programming and Jupyter Notebooks.** (Ivan) Tuesday June 17, 3pm-5pm in Hawkins Conference Room (3514)
 2. **Data Types and Flow Control I.** (Ivan) Thursday June 26, 3pm-5pm in Wendt Conference Room
-3. **Data Types and Flow Control II.** (CiCi) Tuesday July 8, 3pm-5pm in Hawkins Conference Room (3514)
-4. **Datasets and Visualization I.** (Kaeli) Thursday July 10, 3pm-5pm in Hawkins Conference Room (3514)
-5. **Datasets and Visualization II.** (Kaeli) Thursday July 17, 3pm-5pm in Wendt Conference Room
-6. **Genomic Data Analysis.** (Michael) Tuesday July 22, 3pm-5pm in Hawkins Conference Room (3514)
-7. **Machine Learning with application to ChIP-seq data.** (???)  Thursday July 24, 3pm-5pm in Hawkins Conference Room (3514)
-8. **Neural Data Analysis.** (CiCi) Thursday July 31, 3pm-5pm in Hawkins Conference Room (3514)
+3. **Data Types and Flow Control II.** (Ivan) Tuesday July 8, 3pm-5pm in Hawkins Conference Room (3514)
+4. **Datasets and Visualization I.** (Ivan) Thursday July 10, 3pm-5pm in Hawkins Conference Room (3514)
+5. **Datasets and Visualization II.** (Ivan) Thursday July 17, 3pm-5pm in Wendt Conference Room
+6. **Genomic Data Analysis.** (Ivan) Tuesday July 22, 3pm-5pm in Hawkins Conference Room (3514)
+7. **Machine Learning with application to ChIP-seq data.** (Ivan)  Thursday July 24, 3pm-5pm in Hawkins Conference Room (3514)
+8. **Neural Data Analysis.** (Ivan) Thursday July 31, 3pm-5pm in Hawkins Conference Room (3514)
 
 ## Course designed by
 - Justin B. Kinney (jkinney@cshl.edu, http://kinneylab.labsites.cshl.edu/)

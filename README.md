@@ -8,6 +8,8 @@ In this course we will be using Jupyter notebooks. These notebooks will have a m
 - Ivan Iossifov (iossifov@cshl.edu)
   
 ## Graduate student and Postdoc instructors:
+- Vasilisa Kovaleva (kovaleva@cshl.edu)
+- Dmitry Biba (dbiba@cshl.edu)
 
 
 ## Schedule

@@ -18,10 +18,10 @@ Classes are 120 min each. Days of the week, times, and locations may vary.
 1. **Introduction, Python Programming and Jupyter Notebooks.** (Ivan) Tuesday June 17, 3pm-5pm in Hawkins Conference Room (3514)
 2. **Data Types and Flow Control I.** (Ivan) Thursday June 26, 3pm-5pm in Wendt Conference Room
 3. **Data Types and Flow Control II.** (Ivan) Tuesday July 8, 3pm-5pm in Hawkins Conference Room (3514)
-4. **Datasets and Visualization I.** (Ivan) Thursday July 10, 3pm-5pm in Hawkins Conference Room (3514)
-5. **Datasets and Visualization II.** (Ivan) Thursday July 17, 3pm-5pm in Wendt Conference Room
-6. **Genomic Data Analysis.** (Ivan) Tuesday July 22, 3pm-5pm in Hawkins Conference Room (3514)
-7. **Machine Learning with application to ChIP-seq data.** (Ivan)  Thursday July 24, 3pm-5pm in Hawkins Conference Room (3514)
+4. **Datasets and Visualization I.** (Vasilisa) Thursday July 10, 3pm-5pm in Hawkins Conference Room (3514)
+5. **Datasets and Visualization II.** (Vasilisa) Thursday July 17, 3pm-5pm in Wendt Conference Room
+6. **Genomic Data Analysis.** (Dmitry) Tuesday July 22, 3pm-5pm in Hawkins Conference Room (3514)
+7. **Machine Learning with application to ChIP-seq data.** (Dmitry)  Thursday July 24, 3pm-5pm in Hawkins Conference Room (3514)
 8. **Neural Data Analysis.** (Ivan) Thursday July 31, 3pm-5pm in Hawkins Conference Room (3514)
 
 ## Course designed by

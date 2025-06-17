@@ -7,7 +7,7 @@ In this course we will be using Jupyter notebooks. These notebooks will have a m
 ## Lead instructor:
 - Ivan Iossifov (iossifov@cshl.edu)
   
-## Graduate student and Postdoc instructors:
+## Graduate student instructors:
 - Vasilisa Kovaleva (kovaleva@cshl.edu)
 - Dmitry Biba (dbiba@cshl.edu)
 

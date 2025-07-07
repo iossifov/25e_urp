@@ -1,3 +1,4 @@
 ## Python Programming and Jupyter Notebooks
 
-Lecture 3: Flow Control [![Open In Colab: Lecture 3, Flow Control](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jbkinney/24e_urp/blob/main/lecture_3/3_flowcontrol.ipynb)
+Lecture 3: Data Types [![Open In Colab: Lecture 3, Data Types](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iossifov/25e_urp/blob/main/lecture_3/3_flowcontrol.ipynb)
+

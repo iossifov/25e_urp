@@ -21,7 +21,7 @@ Classes are 120 min each. Days of the week, times, and locations may vary.
 5. **Datasets and Visualization II.** (Vasilisa) Thursday July 17, 3pm-5pm in Wendt Conference Room
 6. **Genomic Data Analysis.** (Dmitry) Tuesday July 22, 3pm-5pm in Hawkins Conference Room (3514)
 7. **Introduction to Machine Learning.** (Dmitry)  Thursday July 24, 3pm-5pm in Hawkins Conference Room (3514)
-8. **Deep Neural Networks with application to ChIP-seq data.** (Dmitry) Thursday August 4, 3pm-5pm in Wendt Conference Room
+8. **Deep Neural Networks with application to ChIP-seq data.** (Dmitry) Monday August 4, 3pm-5pm in Wendt Conference Room
 
 ## Course designed by
 - Justin B. Kinney (jkinney@cshl.edu, http://kinneylab.labsites.cshl.edu/)
